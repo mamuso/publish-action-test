@@ -5,6 +5,3 @@ description: 'Si kiyo hey, si kiyo hey'
 runs:
    using: 'node12'
    main: 'dist/main.js'
-branding:
-  color: 'red'
-  icon: 'message-circle'
